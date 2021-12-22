@@ -1,0 +1,595 @@
+[{
+  "_id": {
+    "$oid": "5fcf9885b795df55fc814941"
+  },
+  "name": " Abia",
+  "god": " Nursemaid of [[Hyllus]] or [[Glenus]], sons of [[Heracles]]",
+  "abode": " Messenia, Ire (Abia)",
+  "symbol": "",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf988ab795df55fc814942"
+  },
+  "name": " Acanthis",
+  "god": " Transformed into a bird",
+  "abode": " ",
+  "symbol": "",
+  "parent": " Hippodamia and Autonous",
+  "sibling": " Anthus (mythology)Anthus, Erodius, Schoeneus, Acanthus son of AutonousAcanthus",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf988fb795df55fc814943"
+  },
+  "name": " Aceso",
+  "god": " Goddess of the healing process and curing of sickness",
+  "abode": "",
+  "symbol": "",
+  "parent": " Asclepius and Epione",
+  "sibling": " hlistIasoHygieiaPanacea (Greek mythology), PanaceaAegle (mythology)Aegle",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf9895b795df55fc814944"
+  },
+  "name": " Achaeus",
+  "god": " Eponymist of the [[Achaeans (tribe)|Achaean race]] as well as their home, [[Achaea]] in [[Phthiotis]]",
+  "abode": " Athens, Lacedaemon, Achaea in Phthiotis",
+  "symbol": "",
+  "parent": " Xuthus and Creusa or Jupiter (mythology)|Jupiter (Zeus) and Phthia",
+  "sibling": " IonasIon",
+  "children": "Archander, Architeles"
+},{
+  "_id": {
+    "$oid": "5fcf989db795df55fc814945"
+  },
+  "name": " Actaeon",
+  "god": " Theban hero and huntsman",
+  "abode": " Thebes",
+  "symbol": "",
+  "parent": " Aristaeus and Autonoë of Thebes|Autonoë",
+  "sibling": "",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf98b2b795df55fc814946"
+  },
+  "name": " Aergia",
+  "god": " Personification of sloth, idleness, indolence and laziness",
+  "abode": " Greek Underworld|Underworld (specifically in the House of Hypnos)",
+  "symbol": "",
+  "parent": " Aether (mythology)|Aether and Gaia (mythology)|Gaea",
+  "sibling": "",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf98b9b795df55fc814947"
+  },
+  "name": " Anteros",
+  "god": " God of [[love|requited love]], avenger of [[unrequited love]]",
+  "abode": " Mount Olympus",
+  "symbol": " golden club with arrows of lead",
+  "parent": " Ares and Aphrodite or Poseidon and Nerites (mythology)|Nerites",
+  "sibling": " hlistErosHimerosPhobos (mythology), PhobosDeimos (mythology), DeimosHarmonia (mythology)Harmonia",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf98beb795df55fc814948"
+  },
+  "name": " Apate",
+  "god": " Personification of deceit, deception, guile and fraud",
+  "abode": " Crete",
+  "symbol": "",
+  "parent": " Nyx (Hesiod's Theogony) or Nyx and Erebus (Cicero's ''De Natura Deorum'')",
+  "sibling": " Achlys, Dolos (mythology)Dolos, Eleos, Elpis, Epiphron, Eris (mythology)Eris, Geras, Hesperides, Hybris (mythology), Hypnos, Keres (mythology)Ker, Moirai, Momus, Moros, Oizys, Oneiroi, Nemesis (mythology)Nemesis, Philotes (mythology)Philotes, Sophrosyne, Thanatos",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf98c2b795df55fc814949"
+  },
+  "name": " Apollonis",
+  "god": " [[Ancient Greece|Muse and Greek Goddess of the Inspiration of Literature, Science and the Arts.]]",
+  "abode": " ",
+  "symbol": " lyre",
+  "parent": " Apollo (mythology)|Apollo",
+  "sibling": " Cephisso, Borysthenis or Nētē, Mesē, and Hypatē",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf98e0b795df55fc81494a"
+  },
+  "name": " Ariadne",
+  "god": " Cretan princess; sometimes seen as a goddess associated with mazes",
+  "abode": " Mount Olympus",
+  "symbol": " String (structure)|String / Thread (yarn)|Thread, Snake|Serpent, Bull",
+  "parent": " Minos and Pasiphaë",
+  "sibling": " Phaedra (mythology)Phaedra, Catreus, Deucalion of CreteDeucalion, Glaucus (son of Minos)Glaucus, Androgeus",
+  "children": " Staphylus (son of Dionysus)Staphylus, Oenopion"
+},{
+  "_id": {
+    "$oid": "5fcf98e5b795df55fc81494b"
+  },
+  "name": " Aristaeus",
+  "god": " culture hero",
+  "abode": " Libya, Boeotia",
+  "symbol": "",
+  "parent": " Apollo and Cyrene (mythology)|Cyrene",
+  "sibling": "",
+  "children": " Actaeon, Macris"
+},{
+  "_id": {
+    "$oid": "5fcf98eeb795df55fc81494c"
+  },
+  "name": " Asclepius",
+  "god": " God of medicine, healing, rejuvenation and physicians",
+  "abode": "",
+  "symbol": " Rod of Asclepius|Serpent-entwined staff",
+  "parent": " Apollo and Coronis (lover of Apollo)|Coronis",
+  "sibling": " Apollo#Consorts and children: extended listhalf-siblings of Asclepius",
+  "children": " hlistHygeiaIasoAcesoAglaeaPanaceaMachaon (physician), MachaonPodaliriusTelesphorus (mythology)TelesphorosAratus"
+},{
+  "_id": {
+    "$oid": "5fcf98f8b795df55fc81494d"
+  },
+  "name": " Babalon",
+  "god": " Mother of Abominations",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " ",
+  "sibling": " ",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf98fdb795df55fc81494e"
+  },
+  "name": " Calypso",
+  "god": " ",
+  "abode": " Ogygia",
+  "symbol": " ",
+  "parent": " Atlas (mythology)|Atlas and Pleione (mythology)|Pleione",
+  "sibling": " ",
+  "children": " Latinus, Nausithous, Nausinous"
+},{
+  "_id": {
+    "$oid": "5fcf9906b795df55fc81494f"
+  },
+  "name": " Ceto",
+  "god": " [[Greek sea gods|Sea goddess]]",
+  "abode": " Sea",
+  "symbol": " ",
+  "parent": " Pontus (mythology)|Pontus and Gaia (mythology)|Gaia",
+  "sibling": " Nereus, Thaumas, Phorcys, Eurybia (mythology)Eurybia",
+  "children": " The Hesperides, The Gorgons, GraeaeThe Graeae, Thoosa, Echidna (mythology)Echidna, Ladon (mythology)Ladon and all sea Monsters, Siren (Mythology)the Sirens"
+},{
+  "_id": {
+    "$oid": "5fcf990fb795df55fc814950"
+  },
+  "name": " Chrysaor",
+  "god": " ",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " Poseidon and Medusa",
+  "sibling": " Pegasus",
+  "children": " Geryon, Echidna (mythology)Echidna"
+},{
+  "_id": {
+    "$oid": "5fcf9917b795df55fc814951"
+  },
+  "name": " Cilix",
+  "god": "",
+  "abode": " Cilicia",
+  "symbol": " ",
+  "parent": " Agenor and Telephassa",
+  "sibling": " Europa (consort of Zeus)Europa, Cadmus, Phoenix (son of Agenor)Phoenix",
+  "children": " Thasus, Thebe (Greek myth)Thebe"
+},{
+  "_id": {
+    "$oid": "5fcf9923b795df55fc814952"
+  },
+  "name": " Danae",
+  "god": " ",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " Acrisius and Eurydice of Argos|Eurydice",
+  "sibling": " ",
+  "children": " Perseus"
+},{
+  "_id": {
+    "$oid": "5fcf992db795df55fc814953"
+  },
+  "name": " Demeter",
+  "god": " Goddess of the harvest, agriculture, fertility and sacred law.",
+  "abode": " Mount Olympus",
+  "symbol": " Cornucopia, wheat, torch, bread",
+  "parent": " Cronus and Rhea (mythology)|Rhea",
+  "sibling": " Hestia, Hera, Hades, Poseidon, Zeus, Chiron",
+  "children": " Persephone, Dionysus, Despoina, Arion (mythology)Arion, Plutus, Philomelus"
+},{
+  "_id": {
+    "$oid": "5fcf993eb795df55fc814954"
+  },
+  "name": " Dike",
+  "god": " Goddess of justice and the spirit of moral order and fair judgement",
+  "abode": " Mount Olympus",
+  "symbol": " Scales/ Balance",
+  "parent": " Zeus and Themis",
+  "sibling": "HoraeHorai, Eirene (Greek goddess)Eirene, Eunomia (goddess)Eunomia, Moirai, ",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9945b795df55fc814955"
+  },
+  "name": " Dolos",
+  "god": " Personification of trickery, cunning deception, craftiness, treachery and guile",
+  "abode": "",
+  "symbol": "",
+  "parent": " Aether (mythology)|Aether and Gaia (Hyginus Preface) or Erebus and Nyx (Cicero De Natura Deorum)",
+  "sibling": " Achlys, Apate (deity), Eleos, Elpis, Epiphron, Eris (mythology)Eris, Geras, Hesperides, Hybris (mythology), Hypnos, Keres (mythology)Ker, Moirai, Momus, Moros, Oizys, Oneiroi, Nemesis (mythology)Nemesis, Philotes (mythology)Philotes, Sophrosyne, Thanatos or Thalassa (mythology)Thalassa, Titan (mythology)Titans, Cyclops",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf994ab795df55fc814956"
+  },
+  "name": " Eileithyia",
+  "god": " Goddess of Childbirth",
+  "abode": " Mount Olympus",
+  "symbol": " ",
+  "parent": " Zeus and Hera",
+  "sibling": " Ares, Hebe (mythology)Hebe",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9953b795df55fc814957"
+  },
+  "name": " Eos",
+  "god": " Personification of the Dawn",
+  "abode": " Sky",
+  "symbol": " Saffron, Cloak, Roses, Tiara, Cicada, Horse",
+  "parent": " Hyperion (mythology)|Hyperion and Theia",
+  "sibling": " Helios and Selene",
+  "children": " Anemoi, Astraea (mythology)Astraea"
+},{
+  "_id": {
+    "$oid": "5fcf995cb795df55fc814958"
+  },
+  "name": " Eros",
+  "god": " God of love, lust and sex",
+  "abode": " Mount Olympus",
+  "symbol": " Bow and arrows",
+  "parent": " Ares and Aphrodite, or Chaos (mythology)|Chaos as primordial god. ",
+  "sibling": " Harmonia (mythology)Harmonia, Phobos (mythology)Phobos, Deimos (mythology)Deimos, Anteros",
+  "children": " Hedone"
+},{
+  "_id": {
+    "$oid": "5fcf9963b795df55fc814959"
+  },
+  "name": " Europa",
+  "god": " ",
+  "abode": " Crete",
+  "symbol": " ",
+  "parent": " Agenor and Telephassa or Phoenix (son of Agenor)|Phoenix and Perimede (mythology)|Perimede",
+  "sibling": " Cadmus, Cilix, Phoenix (son of Agenor)Phoenix",
+  "children": " Minos, Rhadamanthys, Sarpedon (brother of Minos)Sarpedon, Crete (mythology)Crete, Dodone (mythology)Dodon, Alagonia, Carnus"
+},{
+  "_id": {
+    "$oid": "5fcf996bb795df55fc81495a"
+  },
+  "name": " Hades",
+  "god": " King of the underworld,God of the Dead and Riches",
+  "abode": " Greek underworld|Underworld",
+  "symbol": " Cerberus, Cap of invisibility, or Helm of Darkness, Cypress, Narcissus (plant)|Narcissus and Key of Hades",
+  "parent": " Cronus and Rhea (mythology)|Rhea",
+  "sibling": " Poseidon, Demeter, Hestia, Hera, Zeus",
+  "children": " Macaria, Plutus"
+},{
+  "_id": {
+    "$oid": "5fcf9980b795df55fc81495b"
+  },
+  "name": " Helios",
+  "god": " Personification of the Sun",
+  "abode": " sky",
+  "symbol": " chariot, horses, aureole",
+  "parent": " Hyperion (mythology)|Hyperion and Theia",
+  "sibling": " Selene, Eos",
+  "children": " The Charites, Phaethon, The Horae, Aeëtes, Circe, Perses (brother of Aeetes)Perses (brother of Aeëtes), Pasiphaë, Heliadae, Heliades, Phaethusa, Lampetia"
+},{
+  "_id": {
+    "$oid": "5fcf998cb795df55fc81495c"
+  },
+  "name": " Hemera",
+  "god": " Primordial goddess of the day",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " Erebus and Nyx or Chaos (cosmogony)|Chaos",
+  "sibling": " Aether (mythology)Aether, Hypnos, Thanatos, Oizys, Momus, Apate (deity)Apate, Clotho, Lachesis (mythology)Lachesis, Oneiroi, Atropos, Eris (mythology)Eris (Hesiod), Furies (variant accounts), Moros ",
+  "children": " Gaia (mythology)Gaia, Uranus (mythology)Uranus, Thalassa (mythology)Thalassa"
+},{
+  "_id": {
+    "$oid": "5fcf9992b795df55fc81495d"
+  },
+  "name": " Hermaphroditus",
+  "god": " Deity of Hermaphroditism",
+  "abode": " Mount Ida (Turkey)|Mount Ida",
+  "symbol": " ",
+  "parent": " Hermes and Aphrodite",
+  "sibling": " Aether (mythology)Aether, Hypnos, Thanatos, Oizys, Momus, Apate (deity)Apate, Clotho, Lachesis (mythology)Lachesis, Oneiroi, Atropos, Eris (mythology)Eris (Hesiod), Furies (variant accounts), Moros ",
+  "children": " Gaia (mythology)Gaia, Uranus (mythology)Uranus, Thalassa (mythology)Thalassa"
+},{
+  "_id": {
+    "$oid": "5fcf999fb795df55fc81495e"
+  },
+  "name": " Hygieia",
+  "god": " Goddess of good health, cleanliness, and sanitation",
+  "abode": " Mount Olympus",
+  "symbol": " ",
+  "parent": " Asclepius and Epione",
+  "sibling": " Iaso, Panacea, Aceso, Aglaea",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf99a9b795df55fc81495f"
+  },
+  "name": " Hymenaios",
+  "god": " God of weddings, reception, marriage",
+  "abode": " Mount Olympus",
+  "symbol": " Bridal torch",
+  "parent": " Apollo and one of the Muses<ref>Nonnus, ''Dionysiaca'' 33.67</ref><ref>Vatican Scholiast on Euripides' Rhesus, 895 (ed. Dindorf)</ref><ref>Scholiast on Pindar's Pythian Odes 4.313</ref><ref>Alciphron, ''Epistles'' 1.13.3</ref><ref>Tzetzes. ''Chiliades'' 8.599</ref>",
+  "sibling": " Iaso, Panacea, Aceso, Aglaea",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf99adb795df55fc814960"
+  },
+  "name": " Iris",
+  "god": " Goddess of the Rainbow, Messenger of the Gods",
+  "abode": " Mount Olympus (possibly)",
+  "symbol": " Rainbow, caduceus, pitcher",
+  "parent": " Thaumas and Electra (Oceanid)|Electra",
+  "sibling": " Arke (mythology)Arke, Aello, Celaeno, and Ocypete",
+  "children": " Pothos (mythology)Pothos"
+},{
+  "_id": {
+    "$oid": "5fcf99b7b795df55fc814961"
+  },
+  "name": " Ixion",
+  "god": " King of the [[Lapiths]]",
+  "abode": " in the valley of the Peneus and on the mountain Pelion in Thessaly",
+  "symbol": " ",
+  "parent": " son of Ares, or Leonteus (mythology)|Leonteus, or Antion and Perimele, or Phlegyas",
+  "sibling": " Coronis (mythology)Coronis",
+  "children": " PirithousPeirithoös by Dia, Centaurs or Centaurus (Greek mythology) by Nephele"
+},{
+  "_id": {
+    "$oid": "5fcf99bfb795df55fc814962"
+  },
+  "name": " Leto",
+  "god": " Goddess of motherhood",
+  "abode": " Delos",
+  "symbol": " Veil, dates, palm tree, rooster, wolf, griffin|gryphon, weasel",
+  "parent": " Coeus and Phoebe (mythology)|Phoebe",
+  "sibling": " Asteria (Titaness)Asteria",
+  "children": " Apollo, Artemis"
+},{
+  "_id": {
+    "$oid": "5fcf99c7b795df55fc814963"
+  },
+  "name": " Medea",
+  "god": " ",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " Aeebtes and Idyia",
+  "sibling": " Absyrtus, Chalciope",
+  "children": "Alcimenes, Thessalus, Tisander, Mermeros, PheresMermeros, Mermeros, PheresPheres, Eriopis, Medus"
+},{
+  "_id": {
+    "$oid": "5fcf99d3b795df55fc814964"
+  },
+  "name": " Medusa",
+  "god": " ",
+  "abode": " ",
+  "symbol": " Rainbow, caduceus, pitcher",
+  "parent": " Phorcys and Ceto",
+  "sibling": " The Hesperides, Sthenno, Euryale (Gorgon)Euryale, The Graea, Thoosa, Scylla, Ladon (mythology)Ladon",
+  "children": " Pegasus, Chrysaor"
+},{
+  "_id": {
+    "$oid": "5fcf99ebb795df55fc814965"
+  },
+  "name": " Megaera",
+  "god": " Jealousy and envy",
+  "abode": "",
+  "symbol": "",
+  "parent": " Uranus (mythology)|Uranus or Nyx",
+  "sibling": " Alecto, Tisiphone",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf99f8b795df55fc814966"
+  },
+  "name": " Melaneus",
+  "god": " Famous archer, founder of Oechalia and King of the [[Dryopes]]",
+  "abode": "",
+  "symbol": "",
+  "parent": " Apollo",
+  "sibling": "",
+  "children": " Eurytus, Ambracia (mythology)Ambracia"
+},{
+  "_id": {
+    "$oid": "5fcf9a03b795df55fc814967"
+  },
+  "name": " Nicaea",
+  "god": " huntress and [[naiad]] [[nymph]] of [[Astacia]]",
+  "abode": " Nicaea or Lake Ascanius in Bithynia",
+  "symbol": " ",
+  "parent": " Sangarius and Cybele",
+  "sibling": "",
+  "children": " Telete"
+},{
+  "_id": {
+    "$oid": "5fcf9a0eb795df55fc814968"
+  },
+  "name": " Nike",
+  "god": " Goddess of victory",
+  "abode": " Mount Olympus",
+  "symbol": " golden sandals, wings, wreaths",
+  "parent": " Pallas (Titan)|Pallas and Styx (mythology)|Styx",
+  "sibling": " Kratos (mythology)Kratos, Bia (mythology)Bia, Zelus",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9a1eb795df55fc814969"
+  },
+  "name": " Olganos",
+  "god": " River God",
+  "abode": " ",
+  "symbol": " ",
+  "parent": " Beres (mythology)|Beres",
+  "sibling": " Mieza, Beroia",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9a29b795df55fc81496a"
+  },
+  "name": " Pan",
+  "god": " God of nature, the wild, shepherds, flocks, of mountain wilds, and is often associated with sexuality",
+  "abode": " Arcadia",
+  "symbol": " Pan flute, goat",
+  "parent": " Hermes and Dryope|Driope and Aphrodite and Penelope",
+  "sibling": " Satyrs, Laertes, Circe, Maenads",
+  "children": " Silenos, Iynx, Krotos, Xanthus (out of Twelve)"
+},{
+  "_id": {
+    "$oid": "5fcf9a32b795df55fc81496b"
+  },
+  "name": " Panacea",
+  "god": " Goddess of Universal health",
+  "abode": " Mount Olympus",
+  "symbol": "",
+  "parent": " Asclepius and Epione",
+  "sibling": " Aceso, Aglaea, Aratus, Hygieia, Iaso, Machaon (physician)Machaon, Podalirius, Telesphorus (mythology)Telesphoros",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf9a3ab795df55fc81496c"
+  },
+  "name": " Phlegyas",
+  "god": " King of the Lapiths",
+  "abode": " in the valley of the Peneus and on the mountain Pelion in Thessaly",
+  "symbol": "",
+  "parent": " Ares and Chryse (mythology)|Chryse or Dotis",
+  "sibling": " Phobos (mythology)Phobos, Deimos (deity)Deimos, Harmonia (mythology)Harmonia, Eros, Adrestia, Anteros, Himeros, Pothos (mythology)Pothos, Aeropus, Alcippe (Greek mythology)Alcippe, Ascalaphus, Ialmenus, Mygdon (son of Ares)Mygdon, Meleager, Sithon (mythology)Sithon, Solymus, Parthenopeus, Edonus, Biston, Odomantus, Pangaeus, Diomedes of ThraceDiomedes, Creston, Evenus (mythology)Evenus, Thestius, Molus, Pylus, Dragon of Thebes, Amazons, Stymphelus, Enyalius, Hippolyta, Antiope (Amazon)Antiope, Melanippe, Penthesilea, Sinope (mythology)Sinope, Lycastus, Parrhasius, Oxylus, Cycnus, Bithys, Oenomaus, Thrassa, Tmolus, Melanippus, Alcon, Chalyps, Cheimarrhoos, Dryas (mythology)Dryas, Hyperbius, Lycus of Libya, Nisos, Porthaon, Minyas (mythology)Minyas, Tereus",
+  "children": " Ixion, Coronis (lover of Apollo)Coronis"
+},{
+  "_id": {
+    "$oid": "5fcf9a43b795df55fc81496d"
+  },
+  "name": " Phoenix",
+  "god": " ",
+  "abode": " Phoenicia",
+  "symbol": " ",
+  "parent": " Agenor and Telephassa",
+  "sibling": " Cadmus, Cilix, Europa (consort of Zeus)Europa",
+  "children": " Carme (mythology)Carme, Cilix, Phineus, Doryclus, Adonis"
+},{
+  "_id": {
+    "$oid": "5fcf9a4fb795df55fc81496e"
+  },
+  "name": " Phorcys",
+  "god": "",
+  "abode": " Sea",
+  "symbol": " ",
+  "parent": " Pontus (mythology)|Pontus and Gaea (mythology)|Gaea",
+  "sibling": " Nereus, Thaumas, Ceto, Eurybia (mythology)Eurybia",
+  "children": " The Hesperides, the Gorgons, Graeaethe Graeae, Thoosa, Scylla, Echidna (mythology)Echidna, Siren (mythology)the Sirens, Ladon (mythology)Ladon"
+},{
+  "_id": {
+    "$oid": "5fcf9a5bb795df55fc81496f"
+  },
+  "name": " Phthonos",
+  "god": " Personification of Envy and Jealousy",
+  "abode": " Mount Olympus",
+  "symbol": " Bridal torch",
+  "parent": " Apollo and one of the Muses Nonnus, Dionysiaca, Vatican Scholiast on Euripides, Rhesus, Dindorf Scholiast on Pindar's Pythian Odes Alciphron, Epistles, Tzetzes. Chiliades",
+  "sibling": " Iaso, Panacea, Aceso, Aglaea",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9a63b795df55fc814970"
+  },
+  "name": " Polydorus",
+  "god": " Theban king",
+  "abode": " Thebes",
+  "symbol": " ",
+  "parent": " Cadmus and Harmonia (deity)|Harmonia",
+  "sibling": " Semele, Ino (Greek mythology)Ino, Agave (mythology)Agave, Autonoë",
+  "children": " Labdacus"
+},{
+  "_id": {
+    "$oid": "5fcf9a83b795df55fc814971"
+  },
+  "name": " Priapus",
+  "god": " God of fertility, vegetables, nature, livestock, fruit, beekeeping, sex, genitals, masculinity, and gardens",
+  "abode": "",
+  "symbol": " Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": " Aphrodite and Dionysus and Hermes and Aphrodite and Dionysus and Chione (daughter of Boreas)|Chione and Zeus and Aphrodite and Pan (god)|Pan",
+  "sibling": " Charites, Eros, Hermaphroditos, Hymenaios, Pan (god)Pan, satyrs",
+  "children": ""
+},{
+  "_id": {
+    "$oid": "5fcf9a9eb795df55fc814972"
+  },
+  "name": " Selene",
+  "god": " Personification of the Moon",
+  "abode": " sky",
+  "symbol": " crescent, chariot, torch, Velificatio|billowing cloak, bull",
+  "parent": " Hyperion (mythology)|Hyperion, Theia, Vergados, Hymn to Hermes, Helios, Euripides, The Phoenician Women, Nonnus, Dionysiaca",
+  "sibling": " Helios, Eos",
+  "children": " Fifty daughters to Endymion, Pandia, Ersa to Zeus"
+},{
+  "_id": {
+    "$oid": "5fcf9aafb795df55fc814973"
+  },
+  "name": " Silenus",
+  "god": " Minor rustic god of [[drunkenness]] and [[winemaking]]",
+  "abode": " Nysa (mythology)|King of Nysa",
+  "symbol": " Wine, grapes, kantharos, thyrsos, wineskin, panthera|panther, donkey",
+  "parent": " Pan (god)|Pan, or Hermes and Gaia (mythology)|Gaea",
+  "sibling": " ",
+  "children": " foster father of Dionysus, Pholus (mythology)Pholos"
+},{
+  "_id": {
+    "$oid": "5fcf9abbb795df55fc814974"
+  },
+  "name": " Thanatos",
+  "god": " Personification of death",
+  "abode": " Greek Underworld|Underworld",
+  "symbol": " Theta, Poppy (flower)|Poppy, Butterfly, Xiphos|Sword, Torch|Inverted Torch",
+  "parent": " Nyx and Erebus",
+  "sibling": " Hypnos, Nemesis (mythology)Nemesis, Eris (mythology)Eris, Keres (mythology)Keres, Oneiroi",
+  "children": " "
+},{
+  "_id": {
+    "$oid": "5fcf9ac8b795df55fc814975"
+  },
+  "name": " Tros",
+  "god": " Founder and King of [[Troy]]",
+  "abode": " Troy",
+  "symbol": "",
+  "parent": " Erichthonius of Dardania|Erichthonius and Astyoche or of Ilus#Ilus (son of Dardanus)|Ilus I",
+  "sibling": " ",
+  "children": " Ilus (son of Tros)Ilus, Assaracus, Ganymede (mythology)Ganymede, Cleopatra"
+},{
+  "_id": {
+    "$oid": "5fcf9acfb795df55fc814976"
+  },
+  "name": " Uranus",
+  "god": " Primordial god of the sky",
+  "abode": " Sky",
+  "symbol": " Zodiac Wheel",
+  "parent": " Gaia (mythology)|Gaia (Hesiod) and Aether (mythology) and Hemera and Nyx and Elyon#Sanchuniathon|Elium and Baal Berith|Beruth (Eusebius/Diodorus)",
+  "sibling": " ",
+  "children": "  The Titan (mythology)Titans, the Cyclopes, the Meliae, the Erinyes (Furies), the Giants (Greek mythology)Giants, the Hekatonkheires and Aphrodite, Theogony'"
+}]
